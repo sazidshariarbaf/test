@@ -1,0 +1,45 @@
+#roll{
+    color: cornflowerblue;
+    font-size: 20px;
+}
+
+.name1{
+    color:green;
+}
+
+.name2{
+    color:royalblue;
+}
+
+.name3{
+    color:orangered;
+}
+
+.name4{
+    color:olivedrab;
+}
+
+.test{
+    color: violet;
+    font-style: inherit;
+    font-variant-caps: all-petite-caps;
+}
+
+.input{
+    padding: 10px;
+}
+
+label{
+    font-size: large;
+    font-weight: bold;
+    font-style: inherit;
+}
+
+input, .input_type{
+    font-size: large;
+
+}
+
+input, select{
+    margin-top: 30px;
+}
